@@ -1,6 +1,6 @@
 ## 🕹️ Game Developer
 
-
+* 🖥️  Computer Engineer
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [berkay97d@gmail.com](mailto:berkay97d@gmail.com)
 * 🧠  I'm eager to improve myself about game development !
